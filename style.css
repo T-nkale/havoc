@@ -248,8 +248,8 @@ header .navbar{
 /* Menu section styling */
 
 .menu-section {
-    color: var(--dark-color);
-    background: var(--white-color);
+    color: var(--white-color);
+    background: var(--dark-color);
     padding: 50px 0 100px;
 }
 
